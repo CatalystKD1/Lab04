@@ -1,5 +1,5 @@
 import turtle
-improt time
+import time
 
 def go(x, y):
   t.penup()
@@ -49,4 +49,5 @@ go(50, 50)
 draw(-10, 10, 10)
 
 time.sleep(5)
+t.hideturtle()
 t.clear()

@@ -12,4 +12,5 @@ while i < 7:
   
 t.home()
 time.sleep(5)
+t.hideturtle()
 t.clear()

@@ -47,4 +47,5 @@ def steps_15(x, y):
 steps_15(10, 15)
 
 time.sleep(5)
+t.hideturtle()
 t.clear()

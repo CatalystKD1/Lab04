@@ -27,4 +27,5 @@ t.forward(10)
 t.left(90)
 
 time.sleep(5)
+t.hideturtle()
 t.clear()

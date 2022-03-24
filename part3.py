@@ -10,4 +10,5 @@ while i < 10:
   i += 1
 
 time.sleep(5)
+t.hideturtle()
 t.clear()

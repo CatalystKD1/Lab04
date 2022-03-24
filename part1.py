@@ -1,4 +1,5 @@
 import turtle
+import time
 
 t = turtle.Turtle()
 i = 0
@@ -10,3 +11,5 @@ while i < 7:
   i += 1
   
 t.home()
+time.sleep(5)
+t.clear()

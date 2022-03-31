@@ -16,6 +16,7 @@ def leftD(y):
     t.left(90)
 
 t = turtle.Turtle()
+t.speed(100)
 def draw(x, y, z):
   '''
   go() I had the go function here to make things look nicer.

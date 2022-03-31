@@ -1,7 +1,7 @@
 import turtle
 import time
 t = turtle.Turtle()
-
+t.speed(100)
 def steps_10(x, y):
 
   i = 0
